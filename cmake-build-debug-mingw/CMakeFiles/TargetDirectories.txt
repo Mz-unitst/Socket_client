@@ -1,0 +1,3 @@
+C:/Users/mz/CLionProjects/Socket_client/cmake-build-debug-mingw/CMakeFiles/Socket_client.dir
+C:/Users/mz/CLionProjects/Socket_client/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/mz/CLionProjects/Socket_client/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
